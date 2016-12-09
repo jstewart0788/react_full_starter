@@ -1,0 +1,9 @@
+
+#Node Modules
+node_modules
+
+#Editor Config
+.editorconfig
+
+#Mac Files
+.DS_store
